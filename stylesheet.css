@@ -1,0 +1,89 @@
+body {
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+text-align:  center;
+background-color: lightblue;
+}
+body{
+	font-family: arial;
+	color: hotpink;
+	font-size: 14px;
+	border:  1px purple solid;
+}
+header {
+	font-family: arial;
+	color: hotpink;
+	font-size: 14px;
+	border:  1px purple solid;
+}
+
+form {
+	color: purple;
+	font-size: 16px;
+	font-family: arial;
+    
+}
+
+input {
+		color: hotpink;
+	font-family: arial;
+	font-size: 22px;
+    
+}
+
+main {
+    color: hotpink;
+	font-family: arial;
+	font-size: 22px;
+}
+p1{
+	font-family: arial;
+	color: hotpink;
+	font-size: 30px;
+}
+ul2{
+	color: purple;
+	font-size: 16px;
+	font-family: arial;
+	text-align:  left;
+}
+h1 {
+	font-family: arial;
+	color: hotpink;
+	font-size: 30px;
+	border:  1px purple solid;
+	text-align:  center;
+}
+ul3{
+	color: purple;
+	font-size: 16px;
+	font-family: arial;
+	text-align:  left;
+}
+p2{color: purple;
+	font-size: 16px;
+	font-family: arial;
+
+}
+body2 {
+	width: 900px;
+margin-left: auto;
+margin-right: auto;
+text-align:  center;
+background-color: lightblue;
+}
+
+body3{width: 900px;
+margin-left: auto;
+margin-right: auto;
+text-align:  center;
+background-color: lightblue;
+}
+
+body4{width: 900px;
+margin-left: auto;
+margin-right: auto;
+text-align:  center;
+background-color: lightblue;
+}
